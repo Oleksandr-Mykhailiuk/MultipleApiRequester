@@ -1,0 +1,14 @@
+{
+    "Company1Endpoint" : {
+        "BaseUrl": "https://company1.test",
+        "AccessToken": "AccessToken1"
+    },
+    "Company2Endpoint" : {
+        "BaseUrl": "https://company2.test",
+        "AccessToken": "AccessToken2"
+    },
+    "Company3Endpoint" : {
+        "BaseUrl": "https://company3.test",
+        "AccessToken": "AccessToken3"
+    }
+}
